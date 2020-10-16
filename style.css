@@ -11,6 +11,12 @@
   background-image: url(./img/BG.jpg);
   height: 100vh;
   background-size: cover;
+  background-position-y: 65%;
   background-attachment: fixed;
+  overflow: hidden;
+}
+
+#slider img {
+  width: 50%;
 }
 /*# sourceMappingURL=style.css.map */
